@@ -4,8 +4,10 @@ Surprisingly, there doesn't seem to be any effective free way of plotting folder
 
 This short script takes a folder or folder tree which contains geotagged images, and extracts the latitude and longitude GPS coordinates, and then plots these points on a leaflet map, including on-click popups to preview the image, see the image's name, and open the image location in Google Maps as well.
 
-
-![2022-05-02_14-12-43_chrome](https://user-images.githubusercontent.com/11169730/166328499-469c79bc-44b6-430f-9f22-19cf54d64c40.png)![2022-05-02_14-20-23_chrome](https://user-images.githubusercontent.com/11169730/166329500-60236f20-cce9-490e-9287-c65fe9317bde.png)
+### Popup functionality
+![2022-05-02_14-12-43_chrome](https://user-images.githubusercontent.com/11169730/166328499-469c79bc-44b6-430f-9f22-19cf54d64c40.png)
+### Plotting lots of points
+![2022-05-02_14-20-23_chrome](https://user-images.githubusercontent.com/11169730/166329500-60236f20-cce9-490e-9287-c65fe9317bde.png)
 
 
 ## Important!
